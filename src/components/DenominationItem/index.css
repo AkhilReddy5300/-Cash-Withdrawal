@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.button {
+  background-color: #382f5a;
+  color: #c4c4c4;
+  border: 1px #c4c4c4 solid;
+  border-radius: 4px;
+  padding: 8px;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 600;
+  width: 120px;
+  margin: 16px;
+  cursor: pointer;
+  outline: none;
+}
+.list {
+  list-style: none;
+}
